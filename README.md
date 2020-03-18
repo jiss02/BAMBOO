@@ -5,8 +5,9 @@
 <p align="center">
   <h3 align="center">대나무 숲 만들기 실습</h3>
   <p align="center">
-    React와 Django Rest Frame워크 활용하기<br />
-   </p>
+    React와 Django Rest Frame워크 활용하기<br /><br />
+    <img src="https://user-images.githubusercontent.com/42693808/76918039-947b8800-6908-11ea-9672-82deda42a439.png"/><br/>
+</p>
 
 
 
